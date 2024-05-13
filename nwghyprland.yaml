@@ -1,0 +1,68 @@
+
+impl: 'https://github.com/Jaoheah/tracks/raw/main'
+
+track: nwghyprland
+
+package-repos:
+  - name: 'chaotic-aur'
+    repo-url: 'https://cdn-mirror.chaotic.cx/$repo/$arch'
+
+packages: 
+  - 'hyprland'
+  - 'xdg-desktop-portal-hyprland'
+  - 'hyprwayland-scanner'
+  - 'hypridle'
+  - 'hyprcursor'
+  - 'hyprlang'
+  - 'swaync'
+  - 'bluez-utils'
+  - 'brightnessctl'
+  - 'glib2'
+  - 'gtk-layer-shell'
+  - 'gtk3'
+  - 'libappindicator-gtk3'
+  - 'playerctl'
+  - 'python'
+  - 'python-cairo'
+  - 'python-dasbus'
+  - 'python-gobject'
+  - 'python-i3ipc'
+  - 'python-netifaces'
+  - 'python-sutil'
+  - 'python-requests'
+  - 'python-build'
+  - 'python-installer'
+  - 'python-setuptools'
+  - 'python-wheel'
+  - 'wlr-randr'
+  - 'cairo'
+  - 'go'
+  - 'pango'
+  - 'zlib'
+  - 'harfbuzz'
+  - 'harfbuzz-cairo'
+  - 'graphite'
+  - 'freetype2'
+  - 'fontconfig'
+  - 'expat'
+  - 'pipewire'
+  - 'wireplumber'
+  
+    
+
+aur-packages: 
+  - 'nwg-shell-git'
+ 
+
+services: 
+  - ''
+
+user-services: 
+  - ''
+
+commands: 
+  - ''
+  - ''
+  - ''
+
+  
